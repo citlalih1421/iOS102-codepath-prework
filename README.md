@@ -6,7 +6,13 @@ App that takes a user's information (full name, the name of the school they atte
 
 ### App Walk-though 
 
-<div style="position: relative; padding-bottom: 213.01775147928996%; height: 0;"><iframe src="https://www.loom.com/embed/6157a55be5ad4d72a78cfb2a8b3a50ab?sid=56ff041a-7fb4-48a5-aa8b-d15575a11a9b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+  <a href="https://www.loom.com/share/6157a55be5ad4d72a78cfb2a8b3a50ab?sid=b02a4edf-632c-4188-bafd-b13f05f32f31">
+    <img style="max-width:300px;
+      src="https://www.loom.com/share/6157a55be5ad4d72a78cfb2a8b3a50ab?sid=b02a4edf-632c-4188-bafd-b13f05f32f31.gif">
+  </a>
+</div>
+    
 <!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
 
