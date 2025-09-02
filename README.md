@@ -8,7 +8,7 @@ App that takes a user's information (full name, the name of the school they atte
 
 <div>
   <a href="https://www.loom.com/share/6157a55be5ad4d72a78cfb2a8b3a50ab?sid=b02a4edf-632c-4188-bafd-b13f05f32f31">
-    <img style="max-width:300px;
+    <img style="max-width:300px;"
       src="https://www.loom.com/share/6157a55be5ad4d72a78cfb2a8b3a50ab?sid=b02a4edf-632c-4188-bafd-b13f05f32f31.gif">
   </a>
 </div>
