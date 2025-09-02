@@ -7,11 +7,10 @@ App that takes a user's information (full name, the name of the school they atte
 ### App Walk-though 
 
 <div>
-![Uploading Kapture 2025-09-01 at 19.46.11.gif…]()
 
     
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
-
+<img src="/demo.gif" width=200><br> -->
+![App Demo](demo.gif)
 
 ### Required Features
 
